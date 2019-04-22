@@ -1,0 +1,5 @@
+DEBUG:10-26-2018 05:11:12 PM:debug message
+INFO:10-26-2018 05:11:12 PM:info message
+WARNING:10-26-2018 05:11:12 PM:warn message
+ERROR:10-26-2018 05:11:12 PM:error message
+CRITICAL:10-26-2018 05:11:12 PM:critical message
